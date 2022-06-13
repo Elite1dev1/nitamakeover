@@ -1,0 +1,42 @@
+span{
+    color: rgb(95, 163, 27);
+}
+d{
+    color: rgb(124, 238, 10);
+}
+
+ img{
+    padding-top: 20px;
+    border-radius: 30px;
+    object-fit: contain;
+}
+.for{
+    width: 100%;
+    background: linear-gradient(to top, rgba(248, 245, 245, 0.5)50%,rgba(245, 237, 237, 0.5)50%), url(Images/realistic-make-up-brushes-composition_1284-25929.webp);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.for p{
+    font-weight: 500;
+    
+}
+.got p{
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
+}
+z{
+    color: rgb(8, 8, 8);
+}
+.shape img{
+    width: 120px;
+    border-radius: 0%;
+   
+}
+.down img{
+    width: 100px;
+    border-radius: 0%;
+    
+}
